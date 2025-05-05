@@ -20,6 +20,6 @@
 </p>
 
 ```plaintext
-Frontend:  HTML | CSS | JavaScript | TailwindCSS | Bootstrap
+Frontend:  HTML | CSS | JavaScript | React.js | TailwindCSS | Bootstrap
 Backend:   (learning) Node.js | Express | MongoDB
 Tools:     Git | GitHub | VS Code | Figma
