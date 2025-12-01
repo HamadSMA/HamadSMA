@@ -2,7 +2,7 @@
 # Hi 👋 I'm Hamad Alaslani
 
 ## 👨‍💻 About Me 
-🎓 B.Sc. in Electrical Engineering<br>📔 I use github to document my joirney in becomeing a software developer<br>🌱 Currently in Tuwaiq Software Development bootcamp<br>🧠 Following The Odin Project and Josh W. Comeau’s 'Joy for JavaScript Developers'<br>🎯 Goal: Become a strong full-stack web developer
+🎓 B.Sc. in Electrical Engineering<br>📔 I use github to document my joirney in becomeing a software developer<br>🌱 Currently in Tuwaiq Software Development bootcamp<br>🧠 Self-study: The Odin Project and Josh W. Comeau’s 'Joy for JavaScript Developers'<br>🎯 Goal: Become a strong full-stack web developer
 
 
 ## 💻 Tech Stack
