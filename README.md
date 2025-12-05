@@ -14,7 +14,7 @@
 <br>
 
 ## What do I do?
-🎓 ~Electrical Engineering~ Software Developer<br>📔 I use github to document my joirney in becomeing a software developer<br>🌱 Currently in Tuwaiq Software Development bootcamp<br>🧠 Self-study: The Odin Project and Josh W. Comeau’s 'Joy for JavaScript Developers'<br>🎯 Goal: Become a competent software developer.
+🎓 ~Electrical Engineer~ Software Developer<br>📔 I use github to document my joirney in becomeing a software developer<br>🌱 Currently in Tuwaiq Software Development bootcamp<br>🧠 Self-study: The Odin Project and Josh W. Comeau’s 'Joy for JavaScript Developers'<br>🎯 Goal: Become a competent software developer.
 
 
 
