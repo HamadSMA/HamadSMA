@@ -21,7 +21,7 @@
 - [ ] Obtain CompTIA Server+ certification
 - [ ] Obtain CompTIA Cloud+ certification
 - [ ] Develop a Full-Stack application
-- [ ] Design a whimsical portfolio [**kinda like!**](https://www.sharyap.com/)
+- [ ] Design a whimsical portfolio [kinda like!](https://www.sharyap.com/)
 
 -----
 
