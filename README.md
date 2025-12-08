@@ -2,31 +2,31 @@
 ## Hi 👋 I'm Hamad, 
 **~An electrical engineer~ A software developer, and I use:**
 <br>
-<br>
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
+![My Skills](https://skillicons.dev/icons?i=git,github,figma,html,css,bootstrap,tailwind,webpack&theme=light) <br>
+![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,python,net,vscode,unity,apple&theme=light) 
 <br>
-
+<br>
 ## 💼 What Do I Do?
-📔 I use github to document my joirney in becomeing a software developer. <br>
-🌱 Currently in Tuwaiq Software Development bootcamp. <br>
-🧠 Studying: The Odin Project and Josh W. Comeau’s Joy for JavaScript Developers. <br>
-🎮 For fun, I develop simple games using Unity. <br>
-🟩 I still don't know how to exit Vim. <br>
-
+📔 I use Github to [document my journey](https://github.com/HamadSMA/fullstack-notes) in becoming a software developer <br>
+🌱 Currently in Tuwaiq Software Development Bootcamp <br>
+🧠 Studying: The Odin Project and Josh W. Comeau’s Joy for JavaScript Developers <br>
+🎮 For fun, I develop simple games using Unity <br>
+🟩 I still don't know how to exit Vim <br>
 <br>
-
-## 🎯 My Short Term Goals
-- [x] Create a simple app utilizing OOP and SOLID princelples
-- [x] Program a CLI app
+## 🎯 My Goals
+- [x] Create a simple app utilizing OOP and SOLID principles
+- [x] Run a program with a custom command
+- [x] Commit a crime (vibe coded and app)
 - [ ] Obtain CompTIA Server+ certification
 - [ ] Obtain CompTIA Cloud+ certification
 - [ ] Develop a Full-Stack application
-- [ ] Design a portfolio website
+- [ ] Design a whimsical portfolio [**kinda like!**](https://www.sharyap.com/)
 
-<br>
+-----
 
-**A wise man once said...**
->Weeks of coding can save you hours of planning.<br>
+**𝒪𝓃𝒸𝑒 𝓊𝓅𝑜𝓃 𝒶 𝓉𝒾𝓂𝑒, 𝓉𝒽𝑒 𝓊𝓃𝒸𝑜𝒹𝑒𝒹 𝑜𝓃𝑒 𝓈𝒶𝒾𝒹...**
+>𝒲𝑒𝑒𝓀𝓈 𝑜𝒻 𝒸𝑜𝒹𝒾𝓃𝑔 𝒸𝒶𝓃 𝓈𝒶𝓋𝑒 𝓎𝑜𝓊 𝒽𝑜𝓊𝓇𝓈 𝑜𝒻 𝓅𝓁𝒶𝓃𝓃𝒾𝓃𝑔.
 >
-> \- *A wise man*
+> \- 𝒯𝒽𝑒 𝓊𝓃𝒸𝑜𝒹𝑒𝒹 𝑜𝓃𝑒
+
