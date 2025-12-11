@@ -17,7 +17,7 @@
 ## 🎯 My Goals
 - [x] Create a simple app utilizing OOP and SOLID principles
 - [x] Run a program with a custom command
-- [x] Commit a crime (vibe coded and app)
+- [x] Commit a crime (vibe coded an app)
 - [ ] Obtain CompTIA Server+ certification
 - [ ] Obtain CompTIA Cloud+ certification
 - [ ] Develop a Full-Stack application
