@@ -9,8 +9,6 @@
 <br>
 ## 💼 What Do I Do?
 📔 I use Github to [document my journey](https://github.com/HamadSMA/fullstack-notes) in becoming a software developer <br>
-🌱 Currently in Tuwaiq Software Development Bootcamp <br>
-🧠 Studying: The Odin Project and Josh W. Comeau’s Joy for JavaScript Developers <br>
 🎮 For fun, I develop simple games using Unity <br>
 🟩 I still don't know how to exit Vim <br>
 <br>
@@ -18,10 +16,9 @@
 - [x] Create a simple app utilizing OOP and SOLID principles
 - [x] Run a program with a custom command
 - [x] Commit a crime (vibe coded an app)
-- [x] Obtain CompTIA Server+ certification
-- [ ] Obtain CompTIA Cloud+ certification
-- [ ] Develop a Full-Stack application
-- [ ] Design a whimsical portfolio [kinda like!](https://www.sharyap.com/)
+- [x] Develop a Full-Stack application
+- [x] Design a whimsical portfolio
+- [ ] Develop an app with ASP.NET Web API and React.js
 
 -----
 
