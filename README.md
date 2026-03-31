@@ -8,17 +8,16 @@
 <br>
 <br>
 ## 💼 What Do I Do?
-📔 I use Github to [document my journey](https://github.com/HamadSMA/fullstack-notes) in becoming a software developer <br>
+📔 I document my ASP.NET CORE & C# learning [Here](https://github.com/HamadSMA/GoGameShop/blob/main/NOTES.md)<br>
 🎮 For fun, I develop simple games using Unity <br>
-🟩 I still don't know how to exit Vim <br>
+🟩 I still don't know how to exit Vim, and at this point I'm afraid to find out<br>
 <br>
 ## 🎯 My Goals
 - [x] Create a simple app utilizing OOP and SOLID principles
-- [x] Run a program with a custom command
 - [x] Commit a crime (vibe coded an app)
-- [x] Develop a Full-Stack application
-- [x] Design a whimsical portfolio
-- [ ] Develop an app with ASP.NET Web API and React.js
+- [x] Design a [whimsical portfolio](https://hamadsma.netlify.app/) (no longer updated)
+- [ ] Develop a production-ready, performant and scaleable, containerized and cloud deployed e-commerce website ([in progress](https://github.com/HamadSMA/GoGameShop?tab=readme-ov-file)
+- [ ] Long term goal: become a system programmer
 
 -----
 
