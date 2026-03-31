@@ -16,7 +16,7 @@
 - [x] Create a simple app utilizing OOP and SOLID principles
 - [x] Commit a crime (vibe coded an app)
 - [x] Design a [whimsical portfolio](https://hamadsma.netlify.app/) (no longer updated)
-- [ ] Develop a production-ready, performant and scaleable, containerized and cloud deployed e-commerce website ([in progress](https://github.com/HamadSMA/GoGameShop?tab=readme-ov-file)
+- [ ] Develop a production-ready, performant and scaleable, containerized and cloud deployed e-commerce website ([in progress](https://github.com/HamadSMA/GoGameShop?tab=readme-ov-file))
 - [ ] Long term goal: become a system programmer
 
 -----
