@@ -9,7 +9,7 @@
 <br>
 
 > [!TIP]
-> It's a matter of personal preference, but I find (Soft Dark) theme most easy on the eyes, [check it out](https://github.com/settings/appearance)
+> Consider using [Soft Dark](https://github.com/settings/appearance) theme, I find most easy on the eyes.
 
 ## 💼 What Do I Do?
 📔 I document my ASP.NET CORE & C# learning [Here](https://github.com/HamadSMA/GoGameShop/blob/main/NOTES.md)<br>
