@@ -7,16 +7,22 @@
 ![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,python,net,vscode,unity,apple&theme=light) 
 <br>
 <br>
+
+> [!TIP]
+> It's a matter of personal preference, but I find (Soft Dark) theme most easy on the eyes, [check it out](https://github.com/settings/appearance)
+
 ## 💼 What Do I Do?
 📔 I document my ASP.NET CORE & C# learning [Here](https://github.com/HamadSMA/GoGameShop/blob/main/NOTES.md)<br>
 🎮 For fun, I develop simple games using Unity <br>
 🟩 I still don't know how to exit Vim, and at this point I'm afraid to find out<br>
 <br>
 ## 🎯 My Goals
-- [x] Create a simple app utilizing OOP and SOLID principles
 - [x] Commit a crime (vibe coded an app)
 - [x] Design a [whimsical portfolio](https://hamadsma.netlify.app/) (no longer updated)
 - [ ] Develop a production-ready, performant and scaleable, containerized and cloud deployed e-commerce website ([in progress](https://github.com/HamadSMA/GoGameShop?tab=readme-ov-file))
+- [ ] Read (How Do it Know)
+- [ ] Read (Grokking Algorithms)
+- [ ] Learn to draw
 - [ ] Long term goal: become a system programmer
 
 -----
