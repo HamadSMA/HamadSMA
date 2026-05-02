@@ -3,8 +3,8 @@
 **~An electrical engineer~ A software developer, and I use:**
 <br>
 
-![My Skills](https://skillicons.dev/icons?i=git,github,figma,html,css,bootstrap,tailwind,webpack&theme=light) <br>
-![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,python,net,vscode,unity,apple&theme=light) 
+![My Skills](https://skillicons.dev/icons?i=git,github,html,css,bootstrap,tailwind,webpack&theme=light) <br>
+![My Skills](https://skillicons.dev/icons?i=javascript,react,python,net,vscode,unity,apple&theme=light) 
 <br>
 <br>
 
