@@ -8,8 +8,6 @@
 <br>
 <br>
 
-> [!TIP]
-> Consider using [Soft Dark](https://github.com/settings/appearance) theme, I find it most easy on the eyes.
 
 ## 💼 What Do I Do?
 📔 I document my ASP.NET CORE & C# learning [Here](https://github.com/HamadSMA/GoGameShop/blob/main/NOTES.md)<br>
@@ -32,3 +30,6 @@
 >
 > \- 𝒯𝒽𝑒 𝓊𝓃𝒸𝑜𝒹𝑒𝒹 𝑜𝓃𝑒
 
+
+> [!TIP]
+> Consider using [Soft Dark](https://github.com/settings/appearance) theme, I find it most easy on the eyes.
