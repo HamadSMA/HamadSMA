@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**HamadSMA/HamadSMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi 👋 I'm Hamad, 
+**~An electrical engineer~ A software developer, and I use:**
+<br>
+<br>
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,github,docker,postgres,mysql,nginx&theme=light) <br>
+![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode,postman,html,css,js,react&theme=light)
+<br>
+<br>
+## 💼 Currently
+📔 Latest project: [GoGameShop](https://github.com/HamadSMA/GoGameShop) — see my [learning notes](https://github.com/HamadSMA/GoGameShop/blob/main/NOTES.md). <br>
+🗺️ Roadmap: [ASP.NET Core deep dive](https://github.com/HamadSMA/dotnet-deep-dive). Because know thy enemy. <br>
+🎮 Develop simple games on Unity in exchange for dopamine hits. <br>
+🟩 I don't know how to exit Vim, and at this point I'm afraid to find out.
+<br>
+## 🎯 My Goals
+- [ ] Learn to draw something other than a stickman
+- [ ] Become a systems programmer
+- [ ] Avoid knowing how to exit Vim
+-----
+> [!WARNING]
+> If you are reading this, I hope you are having a good day 😄
