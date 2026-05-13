@@ -24,11 +24,11 @@ Using AI with intent.
 
 ### In Learning
 - **Rubber-ducking**: Bouncing ideas and testing understanding.
-- **Documentation translation**: Simplifying docs when they are too abstract and ambiguous"
-- **Finding resources**: Unearthing useful resources and great books.
+- **Documentation**: Simplifying docs when they are too abstract or ambiguous"
+- **Discovering**: Unearthing useful resources and great books.
 
 ### While Working
-- **Scaffolding**: Boilerplates and stuff.
+- **Scaffolding**: Boilerplates and configurations.
 - **Segment-by-segment development**: Build in small reviewable chunks.
 - **Non-negotiable**: I won't integrate anything until I can explain what it does and why.
 
