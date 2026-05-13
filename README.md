@@ -34,4 +34,4 @@ Using AI with intent.
 
 -----
 > [!WARNING]
-> If you are reading this, I hope you are having a good day 😄
+> If you are reading this, I hope you are having a wonderful day 😄
