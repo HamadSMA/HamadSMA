@@ -23,8 +23,8 @@
 Using AI with intent.
 
 ### In Learning
-- **Rubber-ducking**: Bounce ideas and testing understanding.
-- **Documentation translation**: Docs are notoriously hard to read, I simplify them with AI.
+- **Rubber-ducking**: Bouncing ideas and testing understanding.
+- **Documentation translation**: Simplifying docs when they are too abstract and ambiguous"
 - **Finding resources**: Unearthing useful resources and great books.
 
 ### While Working
