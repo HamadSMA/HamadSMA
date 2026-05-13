@@ -4,7 +4,6 @@
 <br>
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,github,docker,postgres,mysql,nginx&theme=light) <br>
 ![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode,postman,html,css,js,react&theme=light)
-
 <br>
 <br>
 
@@ -14,27 +13,24 @@
 🎮 Develop simple games on Unity in exchange for dopamine hits. <br>
 🟩 I don't know how to exit Vim, and at this point I'm afraid to find out.
 
-<br>
-
 ## 🎯 My Goals
 - [ ] Learn to draw something other than a stickman
 - [ ] Become a systems programmer
 - [ ] Avoid knowing how to exit Vim
-<br>
 
 ## 🤖 My AI Usage Policy
+
 Using AI with intent.
 
 ### In Learning
-- **Rubber-ducking**: Bounce ideas and test understanding.
+- **Rubber-ducking**: Bounce ideas and testing understanding.
 - **Documentation translation**: Docs are notoriously hard to read, I simplify them with AI.
-- **Finding resources**: AI helps unearth useful resources and great books.
+- **Finding resources**: Unearthing useful resources and great books.
 
 ### While Working
 - **Scaffolding**: Boilerplates and stuff.
 - **Segment-by-segment development**: Build in small reviewable chunks.
-- **Line-by-line review**: Read everything - I don't understand? I don't use.
-- **Non-negotiable**:  I won't integrate anything until I can explain what it does and why.
+- **Non-negotiable**: I won't integrate anything until I can explain what it does and why.
 
 -----
 > [!WARNING]
