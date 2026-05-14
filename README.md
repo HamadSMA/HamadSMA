@@ -14,17 +14,17 @@
 🟩 I don't know how to exit Vim, and at this point I'm afraid to find out.
 
 ## 🎯 My Goals
-- [ ] Learn to draw something other than a stickman
 - [ ] Become a systems programmer
-- [ ] Avoid knowing how to exit Vim
+- [ ] Learn to draw something other than a stickman
+- [ ] Avoid knowing how to exit Vim (lifelong journey)
 
-## 🤖 My AI Usage Policy
+## 🤖 How I use AI
 
-Using AI with intent.
+With intent.
 
 ### In Learning
 - **Rubber-ducking**: Bouncing ideas and testing understanding.
-- **Documentation**: Simplifying docs when they are too abstract or ambiguous"
+- **Documentation**: Simplifying docs when they are too abstract or ambiguous
 - **Discovering**: Unearthing useful resources and great books.
 
 ### While Working
