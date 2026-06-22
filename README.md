@@ -8,7 +8,7 @@
 <br>
 
 ## 💼 Latest work
-🎮 [Stealth Particles](https://github.com/HamadSMA/stealth-particles) - [Play here](https://hamadalaslani.dev/game.html) <br>
+🎮 [Stealth Particles](https://github.com/HamadSMA/stealth-particles) - play [here](https://hamadalaslani.dev/game.html) <br>
 📔 [Go Game Shop](https://github.com/HamadSMA/GoGameShop) - see my [notes](https://github.com/HamadSMA/GoGameShop/blob/main/NOTES.md) <br>
 
 ## Currently reading
