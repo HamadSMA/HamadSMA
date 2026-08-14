@@ -2,7 +2,8 @@
 **~An electrical engineer~ gameplay programmer/software developer, and I use:**
 <br>
 <br>
-![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,git,github,docker,&theme=light) <br>
+![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,git,github,docker&theme=light) 
+<br>
 ![My Skills](https://skillicons.dev/icons?i=bash,vscode,postman,html,css,js&theme=light)
 <br>
 <br>
