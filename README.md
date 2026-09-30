@@ -9,7 +9,8 @@
 <br>
 
 ## 💼 Latest work
-📔 [Personal Expense Tracker ](https://github.com/HamadSMA/GoGameShop)
+📔 [Personal Expense Tracker ](https://github.com/HamadSMA/personal-expense-tracker) - My main portfolio piece
+<br>
 🎮 [Stealth Particles](https://github.com/HamadSMA/stealth-particles) - play [here](https://hamadalaslani.dev/game.html) <br>
 
 
