@@ -9,15 +9,15 @@
 <br>
 
 ## 💼 Latest work
+📔 [Personal Expense Tracker ](https://github.com/HamadSMA/GoGameShop)
 🎮 [Stealth Particles](https://github.com/HamadSMA/stealth-particles) - play [here](https://hamadalaslani.dev/game.html) <br>
-📔 [Go Game Shop](https://github.com/HamadSMA/GoGameShop) - see my [notes](https://github.com/HamadSMA/GoGameShop/blob/main/NOTES.md) <br>
+
 
 ## Currently reading
 - Drawing on the right side of the brain
-- Blood, sweat and pixels
 
 ## 🎯 Long term goal
-- [ ] Become an engine programmer
+- [ ] Become  programmer
 
 
 -----
