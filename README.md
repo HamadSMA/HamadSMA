@@ -14,12 +14,6 @@
 🎮 [Stealth Particles](https://github.com/HamadSMA/stealth-particles) - play [here](https://hamadalaslani.dev/game.html) <br>
 
 
-## Currently reading
-- Drawing on the right side of the brain
-
-## 🎯 Long term goal
-- [ ] Become  programmer
-
 
 -----
 > [!WARNING]
